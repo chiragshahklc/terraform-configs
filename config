@@ -1,0 +1,5 @@
+Host terraform
+    HostName localhost
+    User root
+    Port 22
+    IdentityFile ssh_key
