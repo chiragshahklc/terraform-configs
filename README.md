@@ -38,3 +38,9 @@
     ```bash
     $ terraform destroy -var-file="secret.tfvars"
     ```
+
+## Terraform commands
+To format your terraform code
+```bash
+terraform fmt
+```
